@@ -10,12 +10,13 @@ export default function Home() {
             <DesignSystemMarks />
           </div> */}
           <div>
-            <h1 className="text-4xl text-foreground mb-3">Supabase Design System</h1>
+            <h1 className="text-4xl text-foreground mb-3">Upload your files to start</h1>
             <h2 className="text-xl text-foreground-light font-light">
-              Design resources for building consistent user experiences
+              Set timer for files to dissapear
             </h2>
           </div>
         </div>
+        <button>Click me</button>
 
         {/* Homepage items */}
 
